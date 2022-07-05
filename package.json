@@ -2,6 +2,7 @@
   "dependencies": {
     "@tidyjs/tidy": "^2.4.6",
     "d3-node": "^2.2.3",
+    "docx": "^7.4.0",
     "objects-to-csv": "^1.3.6"
   }
 }

@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@tidyjs/tidy": "^2.4.6"
+  }
+}

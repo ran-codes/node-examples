@@ -20,8 +20,7 @@ The most basic thing is to initialize a proect, create a javascript file and be 
    ```
    node app.js
    ```
-
-![alt text](https://raw.githubusercontent.com/rl627/node-examples/main/www/Pasted%20image%20220705121920.png)
+![image](https://user-images.githubusercontent.com/45013044/177813785-452c26cd-22eb-45fd-a2ea-508703043e64.png)
 
 ## Running other scripts
 
@@ -35,8 +34,7 @@ In addition to app.js we could also create other scripts and run them via the no
 node .\examples\index.js
 ```
 
-![alt text](https://raw.githubusercontent.com/rl627/node-examples/main/www/Pasted%20image%20220705122449.png)
-
+![image](https://user-images.githubusercontent.com/45013044/177813887-f6692918-c163-4bfb-92b9-a495e142ff74.png)
 ## Node modules
 
 We can install project specific modules via `npm`. However note that Node comes with several [[Node - Built in Modules]] which provide many utliities without the need to install other modules.

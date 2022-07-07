@@ -7,7 +7,7 @@ Map of Content for all [Node.js stuff](https://nodejs.dev/learn). Below is a rou
 3.  [[Node - Files + Directories]](https://github.com/rl627/node-examples/tree/main/3-files-directories)✔️
 4.  [[Node - CSV files]](https://github.com/rl627/node-examples/tree/main/4-csv-files)✔️
 5.  [[Node - CSV files]](https://github.com/rl627/node-examples/tree/main/5-txt)✔️
-6.  [[Node - Buffers]](https://github.com/rl627/node-examples/tree/main/6-buffer✔️
+6.  [[Node - Buffers]](https://github.com/rl627/node-examples/tree/main/6-buffer)✔️
 7.  [[Node - Streams]](https://github.com/rl627/node-examples/tree/main/7-stream)✔️
 8.  [[Node - Zipped Files]](https://github.com/rl627/node-examples/tree/main/8-zip)✔️
 9.  [[Node - Temporary Files]](https://github.com/rl627/node-examples/tree/main/9-temp-files)✔️
